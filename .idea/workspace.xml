@@ -7,8 +7,9 @@
     <list default="true" id="d5e1a600-df07-4f35-88c8-8c6e350d4e22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NLP assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/airline_class_balance.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/airline_class_balance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/sentiment_per_airline.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/sentiment_per_airline.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/text_length_histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/text_length_histogram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +83,9 @@
       <workItem from="1774607868510" duration="16000" />
       <workItem from="1775042159065" duration="7167000" />
       <workItem from="1775650625455" duration="2354000" />
+      <workItem from="1775724522104" duration="26000" />
+      <workItem from="1776089246479" duration="1496000" />
+      <workItem from="1776090857450" duration="718000" />
     </task>
     <servers />
   </component>
