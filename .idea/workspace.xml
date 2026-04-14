@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NLP assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP assignment.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/airline_class_balance.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/airline_class_balance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/confusion_matrix_Logistic_Regression.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/confusion_matrix_Naive_Bayes.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/sentiment_per_airline.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/sentiment_per_airline.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/text_length_histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/text_length_histogram.png" afterDir="false" />
     </list>
@@ -86,6 +88,8 @@
       <workItem from="1775724522104" duration="26000" />
       <workItem from="1776089246479" duration="1496000" />
       <workItem from="1776090857450" duration="718000" />
+      <workItem from="1776149915077" duration="245000" />
+      <workItem from="1776150167004" duration="2494000" />
     </task>
     <servers />
   </component>
